@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python, Pytorch etc.
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me: send a dm
+- 📫 How to reach me: 
 
 <!---
 acb20031/acb20031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
