@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @acb20031
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python, Pytorch etc.
-- 💞️ I’m looking to collaborate on Python projects
+- Interested in data science and projects within that realm
+- Looking to collaborate on projects
 - 📫 How to reach me: 
 
 <!---
