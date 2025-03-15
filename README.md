@@ -1,4 +1,4 @@
-- Interested in data science and projects within that realm
+- Interested in mathematical finance and data analysis
 - Looking to collaborate on projects
 - 📫 How to reach me: 
 
