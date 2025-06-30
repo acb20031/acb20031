@@ -1,4 +1,4 @@
-- Interested in mathematical finance and data analysis
+- Interested in mathematical and computational finance
 - Looking to collaborate on projects
 - 📫 How to reach me: 
 
